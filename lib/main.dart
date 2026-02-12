@@ -23,7 +23,7 @@ class PlanetInfo {
 final List<PlanetInfo> missions = [
   PlanetInfo("MOON", 10, Colors.grey, Icons.nightlight_round),
   PlanetInfo("EARTH", 25, Colors.blueAccent, Icons.public),
-  PlanetInfo("SATURN", 60, Colors.orangeAccent, Icons.Brightness_low),
+  PlanetInfo("SATURN", 60, Colors.orangeAccent, Icons.brightness_low),
 ];
 
 final selectedMissionProvider = StateProvider<int>((ref) => 1); // Default Earth

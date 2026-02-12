@@ -42,11 +42,11 @@ dependencies:
   cloud_firestore: ^6.1.2
   firebase_auth: ^6.1.4
   audioplayers: ^6.5.1
-  shared_preferences: ^2.5.4
   state_notifier: ^1.0.0
   google_nav_bar: ^5.0.6      # ලස්සන Tabs වලට
   percent_indicator: ^4.2.3   # රවුම් ටයිමර් එකට
   fl_chart: ^0.70.0           # Stats වල Chart එකට
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:
